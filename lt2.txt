@@ -111,7 +111,11 @@ CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 CCTV-17农业,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 
 CCTV-4K超清,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-
+CETV1,http://125.210.152.18:9090/live/ZGJY.m3u8
+第一劇場,http://125.210.152.18:9090/live/DYJC.m3u8
+風雲劇場,http://125.210.152.18:9090/live/FYJC.m3u8
+風雲音樂,http://125.210.152.18:9090/live/FYYY.m3u8
+懷舊劇場,http://125.210.152.18:9090/live/HJJC.m3u8
 衛視頻道,#genre#
 
 湖南卫视,http://39.134.168.91/PLTV/1/224/3221225518/index.m3u8
@@ -205,4 +209,19 @@ CCTV-4K超清,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 新疆卫视,http://223.110.247.161:6610/gitv/live1/G_XINJIANG/G_XINJIANG
 
 新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+电影频道,#genre#
 
+黑莓动画 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
+黑莓动画 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
+黑莓电影 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
+黑莓电影 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影蓝光,http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+黑莓电影蓝光,http://121.31.30.91:8081/ysten-business/live/wmyx/1.m3u8
+黑莓电影蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC动作电影,http://hd1.91kds.cn/b9/aishang.m3u8?id=chcdz
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC家庭影院,http://hd1.91kds.cn/b9/aishang.m3u8?id=chcjt
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
