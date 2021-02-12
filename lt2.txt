@@ -1,5 +1,20 @@
 ﻿央視頻道,#genre#
-
+CCTV-1综合HD,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-4国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV-5体育,http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+CCTV-6高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-7军事农业,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV-8高清,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+CCTV-12社会,http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CCTV-5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 CCTV-1综合,http://39.134.66.66/PLTV/88888888/224/3221225601/index.m3u8
 
 CCTV-1综合,http://120.221.5.113:8089/PLTV/88888888/224/3221225859/index.m3u8
@@ -220,7 +235,7 @@ CETV1,http://125.210.152.18:9090/live/ZGJY.m3u8
 黑莓电影蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC动作电影,http://hd1.91kds.cn/b9/aishang.m3u8?id=chcdz
+
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://hd1.91kds.cn/b9/aishang.m3u8?id=chcjt
